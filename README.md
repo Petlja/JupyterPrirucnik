@@ -1,5 +1,6 @@
 # JupyterPrirucnik
 Priručnik za _Jupyter_
+
 Deo kursa računarstva (16 časova) za 8. razred osnovne škole u Srbiji koji se odnosi na vizuelizaciju i obradu podataka.
 
 ## Struktura
