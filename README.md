@@ -22,3 +22,4 @@ Paketi:
 - 2, 3. i 4. čas: kretanje kroz _Jupyter_ radnu svesku, predstavljanje nizova podataka _Python_ listama, vizuelizacija nizova podataka
 linijskim i stubičastim dijagramima. Moto: "Pusti neka računar radi za tebe". Prvi korak ka obradi podataka pre vizuelizacije.
 
+- 5, 6. i 7. čas: Linijski, stubičasti i sektorski dijagrami; najjednostavnije analize niza podataka (prosek, frekvencijska analiza).
