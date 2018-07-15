@@ -3,6 +3,10 @@ Priručnik za _Jupyter_
 
 Deo kursa računarstva (16 časova) za 8. razred osnovne škole u Srbiji koji se odnosi na vizuelizaciju i obradu podataka.
 
+_Jupyter_ radne sveske iz ovog kursa možete pogledati kako rade na: https://mybinder.org/v2/gh/Petlja/JupyterPrirucnik.git/master
+
+Ukoliko želite da imate sačuvane promene koje ste prethodni put uneli u radne sveske, a nemate na svom računaru instalirano okruženje za _Jupyter_, možete koristiti servis poput https://notebooks.azure.com/ . U konkretnom navedenom servisu, kada otvorite svoj nalog i ulogujete se, prilikom kreiranja nove biblioteke (opcija _New Library_) nudi vam se mogućnost da biblioteku kreirate iz _GitHub_ repozitorijuma (etiketa _From GitHub_ u prozoru koji je iskače nakon što izaberete opciju _New Library_).
+
 ## Struktura
 Svaki čas je u jednoj _Jupyter_ radnoj svesci; sveske imaju imena J01, J02, ..., J16.
 
