@@ -27,3 +27,10 @@ Paketi:
 linijskim i stubičastim dijagramima. Moto: "Pusti neka računar radi za tebe". Prvi korak ka obradi podataka pre vizuelizacije.
 
 - 5, 6. i 7. čas: Linijski, stubičasti i sektorski dijagrami; najjednostavnije analize niza podataka (prosek, frekvencijska analiza).
+
+- 8, 9. i 10. čas: Rad sa tabelarno predstavljenim podacima; biblioteka _pandas_ i struktura podataka _DataFrame_. Formiranje tabele na osnovu podataka predstavljenih listom. Rad sa kolonama i vrstama tabele. Vizuelizacija tabelarno predstavljenih podataka.
+
+- 11, 12. i 13. čas: Sortiranje i filtriranje podataka, frekvencijska analiza podataka. Dodavanje vrste i/ili kolone tabeli, iteriranje po vrstama i kolonama tabele.
+
+- 14, 15. i 16. čas: učitavanje tabela iz CSV i Excel lokalnih datoteka; učitavanje tabela iz udaljenih resursa.
+
