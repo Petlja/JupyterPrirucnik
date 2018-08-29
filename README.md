@@ -1,7 +1,7 @@
 # JupyterPrirucnik
 Priručnik za _Jupyter_
 
-Deo kursa računarstva (16 časova) za 8. razred osnovne škole u Srbiji koji se odnosi na vizuelizaciju i obradu podataka.
+Deo kursa računarstva i informatike (16 časova) za 8. razred osnovne škole u Srbiji koji se odnosi na vizuelizaciju i obradu podataka.
 
 _Jupyter_ radne sveske iz ovog kursa možete pogledati kako rade na: https://mybinder.org/v2/gh/Petlja/JupyterPrirucnik.git/master
 
@@ -30,7 +30,8 @@ linijskim i stubičastim dijagramima. Moto: "Pusti neka računar radi za tebe". 
 
 - 8, 9. i 10. čas: Rad sa tabelarno predstavljenim podacima; biblioteka _pandas_ i struktura podataka _DataFrame_. Formiranje tabele na osnovu podataka predstavljenih listom. Rad sa kolonama i vrstama tabele. Vizuelizacija tabelarno predstavljenih podataka.
 
-- 11, 12. i 13. čas: Sortiranje i filtriranje podataka, frekvencijska analiza podataka. Dodavanje vrste i/ili kolone tabeli, iteriranje po vrstama i kolonama tabele.
+- 11, 12. i 13. čas: Dodavanje vrste i/ili kolone tabeli, iteriranje po vrstama i kolonama tabele, učitavanje tabela iz lokalnih datoteka i iz udaljenih resursa.
 
-- 14, 15. i 16. čas: učitavanje tabela iz CSV i Excel lokalnih datoteka; učitavanje tabela iz udaljenih resursa.
+- 14, 15. i 16. čas: Sortiranje i filtriranje podataka, frekvencijska analiza podataka. _Jupyter_ i _Excel_
+
 
