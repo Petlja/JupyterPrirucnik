@@ -37,3 +37,9 @@ linijskim i stubičastim dijagramima. Moto: "Pusti neka računar radi za tebe". 
 ## Instalacija
 
 Sa sajta anaconda.com iz odeljka [Downloads](https://www.anaconda.com/download/) preuzmite distribuciju Anakonde za vašu platformu (Windows, Linux ili macOS) i instalirajte je. Distribucija Anakonde sadrži najnoviju verziju programskog jezika _Python 3_, interaktivno okruženje _Jupyter_, kao i sve biblioteke potrebne za ovaj kurs.
+
+Ukoliko već imate _Python_ instalaciju i želite samo da dodate neophodne komponente možete ih dodati naredbom
+
+    pip3 install -r requirements.txt
+    
+Datoteka _requirements.txt_ se nalazi u folderu _instalacija_
